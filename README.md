@@ -8,3 +8,4 @@
 - GEHIN Clément
 
 ## Sujet: Propagation des épidémies - Aspects mathématiques
+Bande organisée #13
