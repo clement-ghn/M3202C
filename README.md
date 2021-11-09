@@ -8,3 +8,4 @@
 - GEHIN Clément
 
 ## Sujet: Propagation des épidémies - Aspects mathématiques
+### Sujet: Comment éviter la propagation des épidemies grâce aux aspects mathematiques
