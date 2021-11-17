@@ -29,4 +29,4 @@ Cette séance nous a permis de nous concentrer sur le choix de notre sujet. En e
 Lors de ce TP, nous avons commencé nos premières recherches afin d'approvisionner la présentation détaillé de notre sujet.
 Dans le même temps, l'un de nous trois à rédiger le planning prévisionnel ci-dessous.
 
-![PlanningPrevisionnel]
+![PlanningPrevisionnel](https://gameosu.s-ul.eu/ZJpZKIHy)
