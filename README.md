@@ -12,8 +12,8 @@
 #### Presentation succinte :
 Une épidémie est une apparition et propagation d'une maladie infectieuse contagieuse qui frappe en même temps et en un même endroit un grand nombre de personnes.
 Cette épidémie est toujours accompagnée de chiffres d'un point de vue infectieuse (infectés, âges touchés, Taux de contamination, Taux de mortalité,...) ou vis à vis du remède (statistiques de soins, nombre de guéris, réinfectés ?,...).
-Ces chiffres vont pouvoir être interprété et travaillé par des chercheurs ou mathématicien afin de comprendre au mieux l'épidémie.
-Cette même épidémie qui sera combattu par ces études des chiffres (modélisation, graphes,...).
+Ces chiffres vont pouvoir être interprétés et travaillés par des chercheurs ou mathématiciens afin de comprendre au mieux l'épidémie.
+Cette même épidémie qui sera combattue par ces études des chiffres (modélisation, graphes,...).
 C'est ce que nous essayerons de définir au fil du blog afin de répondre à la question posée "Comment éviter la propagation des épidémies grâce aux aspects mathématiques ?".
 
 **Séance 1 :**
