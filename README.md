@@ -45,8 +45,13 @@ Dans le même temps, l'un de nous trois a rédigé le planning prévisionnel ci-
 
 Au cours de ce TD, nous avons été au coeur des articles intéressants sur notre sujet et nous avons alors décidé de les décortiquer afin d'en extraire le plus d'informations possibles. Nous nous sommes donc partagé le travail et avons récolté nos données à partir d'interviews, de blogs, d'articles de journaux, ... les données ne manquent pas étant donnée la situation actuelle.
 
+**Séance 5 :**
 
-## Travaux 
+Dans un premier temps durant ce TP, nous avons travaillé sur la création de l'affiche. Après études des différentes affiches des années précédentes, nous avons listé les éléments récurrents et nécessaires sur nos affiches. Nous avons alors créé une première ébauche de poster.
+En parallèle, nous avons continué d'analyser nos sources et d'extraire les informations utiles. Nous avons alors pu commencer à alimenter la partie nos [Travaux](#travaux) 
+
+
+## Travaux
 
 
 Synthèses expliquant comment faire une modélisation 
