@@ -48,7 +48,7 @@ Au cours de ce TD, nous avons été au coeur des articles intéressants sur notr
 **Séance 5 :**
 
 Dans un premier temps durant ce TP, nous avons travaillé sur la création de l'affiche. Après études des différentes affiches des années précédentes, nous avons listé les éléments récurrents et nécessaires sur nos affiches. Nous avons alors créé une première ébauche de poster.
-En parallèle, nous avons continué d'analyser nos sources et d'extraire les informations utiles. Nous avons alors pu commencer à alimenter la partie nos [Travaux](#travaux) 
+En parallèle, nous avons continué d'analyser nos sources et d'extraire les informations utiles. Nous avons alors pu commencer à alimenter la partie nos [travaux](#travaux) 
 
 
 ## Travaux
