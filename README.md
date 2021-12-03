@@ -19,7 +19,7 @@
 
 ## Sujet: Comment éviter la propagation des épidemies grâce aux aspects mathématiques
 #### Présentation succincte :
-Une épidémie est l'apparition la propagation d'une maladie infectieuse contagieuse qui frappe en même temps et au même endroit un grand nombre de personnes.
+Une épidémie est l'apparition de la propagation d'une maladie infectieuse contagieuse qui frappe en même temps et au même endroit un grand nombre de personnes.
 Cette épidémie est toujours accompagnée de statistiques d'un point de vue infectieux (nombre d'infectés, âges touchés, taux de contamination, taux de mortalité, ...) ou vis à vis du remède (statistiques de soins, nombre de guéris, réinfectés ?, ...).
 Ces modélisations, graphes, etc vont pouvoir être interprétés et travaillé par des chercheurs ou statisticiens afin de comprendre au mieux l'épidémie et la combattre plus efficacement.
 C'est ce que nous essayerons de définir au fil du blog afin de répondre à la question posée:
