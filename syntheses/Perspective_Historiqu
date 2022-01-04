@@ -1,0 +1,25 @@
+Dans de nombreux modèles, une valeur est calculée ou définie afin de comprendre l’évolution de l’épidémie c’est ce qu’on appelle R0 ou le taux de reproduction du virus.
+
+Le concept est créé par les démographes à la fin du XIXe siècle, où il est appelé « taux net de reproduction ». Il désigne alors le taux d’accroissement ou de déclin d’une population.
+Ce type de décompte est introduit en médecine par Sir Ronald Ross, médecin britannique et spécialiste du paludisme, qui démontre en 1911, avec un simple modèle, que la progression de la maladie peut être freinée efficacement une fois que la population de moustiques descend sous un seuil critique.
+Ross est alors l’un des premiers épidémiologistes à proposer un modèle mathématique.
+Mais le concept du R0 est plus précisément défini en 1952 par George MacDonald, un médecin britannique lui aussi spécialiste du paludisme, pour décrire la transmission de cette maladie mortelle qui deviendra une priorité pour l’Organisation mondiale de la santé au milieu des années 1950. 
+
+Plus tard, en 1975, l’Allemand Klaus Dietz et l’Américain Herbert W. Hethcote vont contribuer à élargir la notion de R0 aux maladies contagieuses et à populariser son usage comme une « métrique » précieuse dans la compréhension et l’anticipation des épidémies.
+Afin d’arriver à cette anticipation des virus et épidémies, de nombreux modèles ont servi de fondations afin d’arriver à ce que l’on a aujourd’hui.
+
+Le modèle de Reed-Frost par exemple est l'un des plus vieux modèles mathématiques des épidémies, il date de 1929. Il est très simpliste, mais il permet d’introduire des notions essentielles et d’obtenir une formule mathématique importante. 
+
+Dans les années 1920, le mathématicien Lowell Reed et le médecin Wade Hampton Frost ont mis au point un modèle pour la propagation des maladies, utilisé dans leurs cours de biostatistique et d'épidémiologie à l'université Johns Hopkins. Ce n'est qu'en 1950 que la formulation mathématique a été publiée.
+
+Le modèle de Reed et Frost s'est inspiré de ce qui a été proposé par H.E. Soper en 1928 pour la rougeole. Le modèle de Soper était déterministe, c'est-à-dire que tous les membres de la population étaient également sensibles à la maladie et avaient la capacité de la transmettre.
+Le modèle est également basé sur la loi d'action de masse, de sorte que le taux d'infection à un moment donné était proportionnel au nombre de personnes sensibles et infectieuses à ce moment-là.
+Il est efficace pour des populations moyennement grandes, mais il ne tient pas compte des infectieux multiples qui entrent en contact avec le même individu.
+Par conséquent, dans les petites populations, le modèle surestime grandement le nombre de personnes sensibles qui deviennent infectées.
+Reed et Frost ont modifié le modèle de Soper pour tenir compte du fait qu'un seul nouveau cas serait produit si une personne sensible particulière entrait en contact avec deux cas ou plus.
+Le modèle Reed-Frost a été largement utilisé et a servi de base au développement d'études de simulation plus détaillées sur la propagation des maladies.
+
+Une autre approche fondatrice fut celle des modèles compartimentaux créés en 1927 par le médecin militaire et épidémiologiste Anderson Gray McKendrick et le biochimiste William Ogilvy Kermack.
+Le principe est de diviser la population en classes épidémiologiques telles que les individus susceptibles d'être infectés, ceux qui sont infectieux, et ceux qui ont acquis une immunité à la suite de la guérison. 
+Depuis, cette approche est utilisée pour modéliser de nombreuses maladies, et continue d'être un sujet de recherche actif en prenant en compte de nouveaux éléments tels que les découvertes de la science des réseaux.
+Il s’agit des premiers modèles SIR qui seront pleinement utilisés pour les épidémies qui verront le jour dès les années 1980.
