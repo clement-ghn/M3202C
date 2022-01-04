@@ -48,8 +48,19 @@ Au cours de ce TD, nous avons été au coeur des articles intéressants sur notr
 **Séance 5 :**
 
 Dans un premier temps durant ce TP, nous avons travaillé sur la création de l'affiche. Après études des différentes affiches des années précédentes, nous avons listé les éléments récurrents et nécessaires sur nos affiches. Nous avons alors créé une première ébauche de poster.
-En parallèle, nous avons continué d'analyser nos sources et d'extraire les informations utiles. Nous avons alors pu commencer à alimenter la partie nos [travaux](#travaux) 
+En parallèle, nous avons continué d'analyser nos sources et d'extraire les informations utiles. Nous avons alors pu commencer à alimenter la partie sur nos travaux.
 
+**Séance 6 :**
+
+Durant cette séance, Clément et Loris ont commencé à rédiger le mémoire, essentiellement les parties définissant les notions qui permettront une bonne compréhension du sujet, la perspective historique afin de se rendre compte de l'évolution des mathématiques dans le domaine épidémique, ainsi qu'une prévision des résultats espérés.
+Cette partie (résultats espérés) nous aidera à coder un programme qui nous donnera permettra de répondre à la problématique.
+C'est ce programme que Loïc a commencé à coder durant cette séance.
+
+**Séance 7 :**
+
+Lors de cette scéance, Clément et Loris ont continué de rédiger le mémoire afin de compléter et finaliser les parties existantes.
+Loïc quant à lui, dans un même temps, a continué de coder le programme.
+Par la suite, Loris a continué la rédaction du mémoire et Clément a rejoint Loïc dans sa conception du code afin de pouvoir terminer à temps le modèle.
 
 ## Sources
 
