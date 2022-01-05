@@ -62,6 +62,27 @@ Lors de cette scéance, Clément et Loris ont continué de rédiger le mémoire 
 Loïc quant à lui, dans un même temps, a continué de coder le programme.
 Par la suite, Loris a continué la rédaction du mémoire et Clément a rejoint Loïc dans sa conception du code afin de pouvoir terminer à temps le modèle.
 
+
+**Séance 8 :**
+
+Au cours de cette séance, les objectifs sont restés les mêmes : Loïc et Clément ont continué de coder afin de créer une simulation et Loris a continué à chercher des documents permettant d'alimenter le mémoire, et à également rédiger le compte-rendu des séances 7 et 8.
+
+**Séance 9 :**
+
+Clément a fini son modèle, permettant de faire une prévision sur un nombre donné de jours l'évolution du nombre de personnes malades, guéries et saines. Loïc quant à lui continue son modèle, afin d'avoir deux modélisations différentes mais complémentaires. Loris continue toujours de faire des synthèses de documents, de recueillir des informations et d'alimenter le mémoire.
+
+**Séance 10 :**
+
+Loïc termine sa modélisation et code cette fois-ci la partie visuelle. Il lui reste donc la partie la plus complexe à coder. Clément ayant terminé sa modélisation, plus modeste, aide Loris dans la réalisation du mémoire, et a commencé la création du poster.
+
+**Séance 11 :**
+
+A la fin de cette séance, Loïc a terminé de coder sa modélisation, après beaucoup de travail. Sa modélisation fonctionne cette fois parfaitement. Loris et Clément ont quasiment terminé le mémoire, car il ne reste que deux grandes parties à rédiger. Clément a en parallèle travaillé sur le poster, et nous avons déormais une première ébauche.
+
+**Séance 12 :**
+
+Cette séance constitue notre dernière séance avant la présentation. Clément a terminé l'affiche pour la valider, et Loris et Loïc ont fait le diaporama de présentation. Avant la prochaine séance, nous ferons une réunion afin de nous préparer pour présenter nos travaux.
+
 ## Sources
 
 - http://images.math.cnrs.fr/Modelisation-d-une-epidemie-partie-1.html 
