@@ -12,7 +12,7 @@ Le modèle de Reed-Frost par exemple est l'un des plus vieux modèles mathémati
 
 Dans les années 1920, le mathématicien Lowell Reed et le médecin Wade Hampton Frost ont mis au point un modèle pour la propagation des maladies, utilisé dans leurs cours de biostatistique et d'épidémiologie à l'université Johns Hopkins. Ce n'est qu'en 1950 que la formulation mathématique a été publiée.
 
-Le modèle de Reed et Frost s'est inspiré de ce qui a été proposé par H.E. Soper en 1928 pour la rougeole. Le modèle de Soper était déterministe, c'est-à-dire que tous les membres de la population étaient également sensibles à la maladie et avaient la capacité de la transmettre.
+Le modèle de Reed et Frost s'est inspiré de ce qui a été proposé par H.E. Soper en 1918 pour la rougeole. Le modèle de Soper était déterministe, c'est-à-dire que tous les membres de la population étaient également sensibles à la maladie et avaient la capacité de la transmettre.
 Le modèle est également basé sur la loi d'action de masse, de sorte que le taux d'infection à un moment donné était proportionnel au nombre de personnes sensibles et infectieuses à ce moment-là.
 Il est efficace pour des populations moyennement grandes, mais il ne tient pas compte des infectieux multiples qui entrent en contact avec le même individu.
 Par conséquent, dans les petites populations, le modèle surestime grandement le nombre de personnes sensibles qui deviennent infectées.
