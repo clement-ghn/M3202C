@@ -83,6 +83,10 @@ A la fin de cette séance, Loïc a terminé de coder sa modélisation, après be
 
 Cette séance constitue notre dernière séance avant la présentation. Clément a terminé l'affiche pour la valider, et Loris et Loïc ont fait le diaporama de présentation. Avant la prochaine séance, nous ferons une réunion afin de nous préparer pour présenter nos travaux.
 
+**Séance 13 & 14 :**
+
+La soutenance étant terminée, nous terminons donc la rédaction du mémoire, qui n’est pas encore terminé. De plus Clément crée le planning final afin de l’intégrer au mémoire.
+
 ## Sources
 
 - http://images.math.cnrs.fr/Modelisation-d-une-epidemie-partie-1.html 
